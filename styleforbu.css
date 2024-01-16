@@ -1,0 +1,18 @@
+.form{
+    width: 470px;
+    height: 200px;
+    position: relative;
+    margin-top: -45px;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: aqua;
+    
+    border: 0;
+    padding: 2px 2px;
+    cursor: pointer;
+  }

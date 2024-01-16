@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+h3{
+    text-align: left;
+    color: rgb(110, 52, 117);
+    font-size: 27px;
+ align-items: center;  
+ font-family: arial, helvetica, sans-serif; 
+ padding: 5px 15px 15px 10px;
+}
+
+.buffet{
+    width: 470px;
+    height: 200px;
+    position: absolute;
+    margin-top: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+    line-height: 0.8;
+    margin-bottom: -30px;
+    text-align:start;
+    word-spacing: -2px;
+}
+.texto {
+    text-align: justify;
+    font-family: arial, helvetica, sans-serif; 
+    padding-left: -130px;
+
+}
+
+
+.rosaletra p{
+    width: 470px;
+    height: 30px;
+    text-align: left;
+    color: rgb(110, 52, 117);
+    font-size: 27px;
+ align-items: center;  
+ font-family: arial, helvetica, sans-serif; 
+ padding: 5px 15px 15px 10px;
+}
+
+.letra p{
+    width: 470px;
+    height: 100px;
+    position: relative;
+    margin-top: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+    line-height: 0.8;
+    margin-bottom: -30px;
+    text-align:start;
+    word-spacing: -2px; 
+}
+

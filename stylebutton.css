@@ -10,7 +10,7 @@
     display: flex;  
     position:relative;     
    justify-content: center; 
-    top:-65px;
+    top:-450px;
     
 }
 
@@ -41,7 +41,7 @@ ul{
 
 
 .bt-ve {
-    height: 45px;
+    height: 46px;
     border-radius:  10px 10px 0 0;
     background:#1b742d;
    display:flex;
@@ -55,7 +55,7 @@ ul{
     }
     
     .bt-vc {
-        height: 45px;
+        height: 46px;
         border-radius:  10px 10px 0 0;
     background:#93e057;
    display:flex;
@@ -69,7 +69,7 @@ ul{
     }
     
     .bt-lr {
-        height: 45px;
+        height: 46px;
         border-radius:  10px 10px 0 0;
         background:#fd7935;
        display:flex;
@@ -83,7 +83,7 @@ ul{
     }
     
     .bt-al{
-        height: 45px;
+        height: 46px;
         border-radius:  10px 10px 0 0;
         background:#4675f1;
        display:flex;
@@ -97,7 +97,7 @@ ul{
     }
 
     .bt-pk {
-        height: 45px;
+        height: 47px;
         border-radius:  10px 10px 0 0;
         background:#bd0041;
        display:flex;
@@ -110,7 +110,7 @@ ul{
    text-decoration: none;
     }
     .bt-rx {
-        height: 45px;
+        height: 47px;
         border-radius:  10px 10px 0 0;
     background:#773756;
    display:flex;

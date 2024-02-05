@@ -13,12 +13,17 @@
 </head>
 <body>
     <header></header>
+
+    <div class="topo">
+        <img src="images/topo.jpg">
+    </div>
+
+  <div class="bann">
+        <img src="images/banner.jpg">
+    </div>
+
     <div class="flex-container">
-        <div class="azul">
-            <img src="images/topo.jpg">
-        </div>
-    
-      
+        
         <div class="roxo">
             <ul>
                 <li><a class="bt bt-ve" href="#">HOME</a></li>
@@ -30,30 +35,30 @@
             </ul>
         </div>
         
-        <div class="amarelo">
-            <img src="images/banner.jpg">
-        </div>
+        
     </div>
 
     <div class="flex-con">
 
-        <div class="verde">
-            <p>conheça<br>nosso<br>cardápio</p>
+        <div class="card">
+            <p>CONHEÇA<br>NOSSO<br>CARDÁPIO</p>
 
-        <img src="images/cardapio.png">
+        <img src="images/cardapio.png"width="110" height="130">
         </div>
 
-        <div class="cinza">
-              <p>conheça<br>nosso<br>brinquedo</p>
-              <img src="images/foto_brinquedos.jpg">
+        <div class="brinquedo">
+              <p>CONHEÇA<br>NOSSOS<br>BRINQUEDOS</p>
+              <img src="images/foto_brinquedos.jpg"width="110" height="130">
         </div>
 
-        <div class="vermelho">
-           <p>conheça<br>nosso<br>salão</p>
-           <img src="images/foto_salao.jpg">
+        <div class="salao">
+           <p>CONHEÇA<br>NOSSO<br>SALÃO</p>
+           <img src="images/foto_salao.jpg" width="110" height="130" >
+           
+        
         </div>
 
-        <div class="laranja">
+        <div class="danebi">
            <div class="star">
              <img src="images/icon_star.png">  
             </div>
@@ -75,8 +80,8 @@
         </div>
 
 
-        <div class="rosa">
-            <div class="rosaletra">
+        <div class="formu">
+            <div class="formuletra">
             <p>Nós ligamos para você!</p>
             </div>
             <div class="letra">
@@ -84,23 +89,24 @@
             </div>
 
             <form>
-                <div>
+                <div class="usuario">
                   <label for="nome">Nome:</label>
-                  <input type="text" id="nome" />
+                  <input type="text" id="nome" required />
                 </div>
                 <div>
                   <label for="telefone">Telefone:</label>
-                  <input type="telefone" id="telefone" />
+                  <input type="telefone" id="telefone" required />
                 </div>
                 <div>
-                  <label for="e-mail">E-mail:</label>
-                  <input type="e-mail" id="e-mail" />
+                  <label>E-mail:</label>
+                  <input type="e-mail" id="e-mail" required />
                 </div>
                 <div class="button">
                     <button type="submit">Enviar</button>
                   </div>
               </form>
         </div> 
+        
     </div>
     
   
